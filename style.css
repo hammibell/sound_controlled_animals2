@@ -1,0 +1,47 @@
+body{
+    text-align:center;
+    background-color: lightblue;
+    margin:20px;
+    text-align: center;
+}
+h2{
+    font-size:large;
+
+}
+.header_div{
+    margin:20px;
+    text-align: center;
+    
+
+}
+#note{
+    font-family: 'Sono', sans-serif;
+    color:rgb(54, 54, 54);
+    letter-spacing:1.5px;
+    font-size:12.5px;
+    font-weight:light;
+
+
+
+}
+.main_div button{
+    font-family: 'Sono', sans-serif;
+    margin-top:30px;
+    width:100px;
+    letter-spacing:2px;
+
+
+
+}
+.copy_right_footer{
+    position:fixed;
+    color:rgb(252, 252, 252);
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color:lightgray;
+    line-height:3;
+    text-align:center;
+    text-shadow:5px 5px 5px lightgray;
+
+}
